@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leuco-scots
 - 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning The C Programming Language
+- 🌱 I’m currently learning Rust Programming Language
 - 📫 How to reach me : leuco#0752 on Discord
 
 <!---
